@@ -21,5 +21,4 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)\
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoft-azure)\
