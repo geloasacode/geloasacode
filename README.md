@@ -10,9 +10,7 @@
 - 💬 &nbsp;Ask me about ... anything!
 - 📫 &nbsp;How to reach me: ... gelodungo@gmail.com
 - 😄 &nbsp;Pronouns: ... He/Him
-- ⚡ &nbsp;Fun fact: ... I play guitar/piano
-#&nbsp;
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+- ⚡ &nbsp;Fun fact: ... I play guitar/piano and
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
