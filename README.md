@@ -29,4 +29,4 @@
 ### 💻&nbsp;OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
-![MacOS](https://img.shields.io/badge/MacOS-05122A?style=flat&logo=apple)\
+![MacOS](https://img.shields.io/badge/MacOS-05122A?style=flat&logo=apple)
