@@ -21,7 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 💻&nbsp;OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
