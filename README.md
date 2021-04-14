@@ -23,7 +23,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)\
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoft-azure)&nbsp; 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)\
 ![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)
 
 ### 💻&nbsp;OS
