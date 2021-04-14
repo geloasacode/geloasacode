@@ -2,14 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 &nbsp;I’m currently working on ... my Skills
-- 🌱 &nbsp;I’m currently learning ... Cloud Computing, Python, Golang and Networking
-- 👯 &nbsp;I’m looking to collaborate on ... Cloud technology
-- 🤔 &nbsp;I want to learn ... MySQL, Bash Scripting and PostgreSQL
-- 💬 &nbsp;Ask me about ... anything!
-- 📫 &nbsp;How to reach me: ... gelodungo@gmail.com
-- 😄 &nbsp;Pronouns: ... He/Him
-- ⚡ &nbsp;Fun fact: ... I play guitar/piano and
+- 🔭 &nbsp;I’m currently working on my skills especially in the field of Information Technology
+- 🌱 &nbsp;I’m currently learning Cloud Computing, Python, Golang and Networking
+- 👯 &nbsp;I’m looking to collaborate on Cloud technology
+- 🤔 &nbsp;I want to learn MySQL, Bash Scripting and PostgreSQL
+- 💬 &nbsp;Ask me about anything!
+- 📫 &nbsp;How to reach me: gelodungo@gmail.com
+- 😄 &nbsp;Pronouns: He/Him
+- ⚡ &nbsp;Fun fact: I play guitar/piano and
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
