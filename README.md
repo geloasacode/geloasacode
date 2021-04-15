@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 &nbsp;I’m currently working on my skills especially in the field of Information Technology
-- 🌱 &nbsp;I’m currently learning Cloud Computing, Python, Golang, Networking and a utilizing command line interface
+- 🌱 &nbsp;I’m currently learning Cloud Computing, Python, Golang, Networking and utilizing command line interface
 - 👯 &nbsp;I’m looking to collaborate on Cloud technology
 - 🤔 &nbsp;I want to learn MySQL, Bash Scripting and PostgreSQL
 - 💬 &nbsp;Ask me about anything!
