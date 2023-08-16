@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 &nbsp;I’m currently working on my skills especially in the field of Information Technology
-- 🌱 &nbsp;I’m currently learning Cloud Computing, Python, Golang, Networking and utilizing command line interface
+- 🌱 &nbsp;I’m currently learning Cloud Computing, Docker, Kubernetes, and Jenkins.
 - 👯 &nbsp;I’m looking to collaborate on Cloud technology
-- 🤔 &nbsp;I want to learn MySQL, Bash Scripting and PostgreSQL
+- 🤔 &nbsp;I want to learn Redis, Flask, and PostgreSQL
 - 💬 &nbsp;Ask me about anything!
 - 📫 &nbsp;How to reach me: gelodungo@gmail.com - I will try to respond as soon as possible
 - 😄 &nbsp;Pronouns: He/Him
