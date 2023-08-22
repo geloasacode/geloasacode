@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 &nbsp;I’m currently working on my skills especially in the field of Information Technology
+- 🔭 &nbsp;I’m currently working on my skills especially in the field of Information Technology.
 - 🌱 &nbsp;I’m currently learning Cloud Computing, Docker, Kubernetes, and Jenkins.
 - 👯 &nbsp;I’m looking to collaborate on Cloud technology
 - 🤔 &nbsp;I want to learn Redis, Flask, and PostgreSQL
