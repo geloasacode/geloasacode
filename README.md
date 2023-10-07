@@ -1,29 +1,21 @@
-<h2>👋 Hey there! I'm Gero</h2>
+<h2>😄 Hey there! I'm Gero</h2>
+<img align="right" alt="Coding"  width="400" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 &nbsp;I’m currently working on my skills especially in the field of Information Technology.
-- 🌱 &nbsp;I’m currently learning Cloud Computing, Docker, Kubernetes, and Jenkins.
-- 👯 &nbsp;I’m looking to collaborate on Cloud technology
-- 🤔 &nbsp;I want to learn Redis, Flask, and PostgreSQL
+- 🌱 &nbsp;I'm enhancing my skills right now on Docker, Kubernetes, AWS, and CI/CD.
+- 👯 &nbsp;I’m looking to collaborate on Cloud technology.
+- 🤔 &nbsp;I want to learn ArgoCD, Helm, Grafana, and Prometheus.
 - 💬 &nbsp;Ask me about anything!
-- 📫 &nbsp;How to reach me: gelodungo@gmail.com - I will try to respond as soon as possible
-- 😄 &nbsp;Pronouns: He/Him
+- 📫 &nbsp;How to reach me: gelodungo@gmail.com - I will try to respond as soon as possible.
 - ⚡ &nbsp;Fun fact: I play guitar/piano
 
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)\
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoft-azure)&nbsp; 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-### 💻&nbsp;OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
-![MacOS](https://img.shields.io/badge/MacOS-05122A?style=flat&logo=apple)
+### 👋 &nbsp;Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/gelo dungo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gelo dungo" height="30" width="40" /></a>
+</p>
