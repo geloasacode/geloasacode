@@ -1,10 +1,10 @@
 <h2>😄 Hey there! I'm Gero</h2>
-<img align="right" alt="Coding"  width="400" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+<img align="right" alt="Coding"  width="390" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 &nbsp;I’m currently working on my skills especially in the field of Information Technology.
+- 🔭 &nbsp;I’m currently working on my skills, especially in the field of DevOps and Cloud.
 - 🌱 &nbsp;I'm enhancing my skills right now on Docker, Kubernetes, AWS, and CI/CD.
 - 👯 &nbsp;I’m looking to collaborate on Cloud technology.
 - 🤔 &nbsp;I want to learn ArgoCD, Helm, Grafana, and Prometheus.
